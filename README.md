@@ -13,6 +13,6 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luisferlim&layout=compact)](https://github.com/Luisferlim/github-readme-stats)
 ![Luisferlim GitHub stats](https://github-readme-stats.vercel.app/api?username=Luisferlim&show_icons=true&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luisferlim&layout=compact)](https://github.com/Luisferlim/github-readme-stats)
+
