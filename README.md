@@ -21,5 +21,5 @@
 ![Macos](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ![Luisferlim GitHub stats](https://github-readme-stats.vercel.app/api?username=Luisferlim&show_icons=true&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luisferlim&layout=compact)](https://github.com/Luisferlim/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luisferlim&layout=compact)https://steamcommunity.com/id/luizskil/](https://github.com/Luisferlim/github-readme-stats)
 
